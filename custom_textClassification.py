@@ -1,9 +1,7 @@
 from nltk.corpus import stopwords
 import numpy as np
 from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer ,TfidfVectorizer
-#from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 import pandas as pd
-import glob
 import re
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.linear_model import SGDClassifier
