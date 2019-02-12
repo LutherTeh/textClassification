@@ -1,6 +1,13 @@
 ## Introduction 
 To develop Custom Machine learning code to perform  text classification on Malaysia news and articles
 
+## install python dependencies
+
+```
+pip install -r requirements.txt
+```
+
+
 ## text pre-processing function
 
 ```
